@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Actividad</string>
+    <string name="ir_al_sitio">Ir al sitio</string>
+    <string name="volver">Volver</string>
+    <string name="bienvenido_a_la_segunda_actividad">Bienvenido a la Segunda Actividad</string>
+</resources>
